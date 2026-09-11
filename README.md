@@ -1,6 +1,6 @@
 # Cadastro de Jogos Zerados
 
-Sistema simples de linha de comando feito em Python pra eu controlar os jogos que eu já zerei. Fiz pra treinar CRUD (Create, Read, Update, Delete) de verdade, sem framework nem nada, só Python puro.
+Sistema simples de linha de comando feito em Python pra eu controlar os jogos que eu já zerei. Feito como projeto final da matéria Estrutura de Dados módulos 2, CRUD (Create, Read, Update, Delete) de verdade, sem framework nem nada, só Python puro.
 
 ## O que dá pra fazer
 
